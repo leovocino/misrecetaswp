@@ -1,0 +1,74 @@
+.caja {
+    background-color: rgb(6, 77, 50);
+    color:moccasin;
+    padding:1em;
+    border: 1px solid black
+}
+
+.caja1 {
+    position:relative;
+    left: 30px;
+    background-color: blueviolet;
+}
+
+.caja2 {
+    position:relative;
+    left: 50px;
+    background-color: rgb(29, 46, 199);
+}
+
+.caja3 {
+    position:relative;
+    left: 60px;
+    background-color: rgb(71, 3, 49);
+}
+
+.caja4 {
+    position:relative;
+    left: 30px;
+    background-color: rgb(241, 91, 22);
+}
+.caja5 {
+    position:relative;
+    left: 30px;
+    background-color: blueviolet;
+}
+.caja6 {
+    position:absolute;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    top: 0;
+
+}
+
+.box {
+    background-color: palevioletred;
+    color:rgb(63, 1, 1);
+    padding: 1em;
+    border:1px solid black
+}
+.box1 {
+    position:fixed;
+    top:0;
+    width: 500px;
+    height: 20px;
+    background-color: cadetblue;
+
+}
+.block {
+    display:block;
+    background-color: blue;
+
+}
+
+.inline { 
+    display:inline;
+    background-color: coral;
+}
+
+.inline-block { 
+    display:inline-block;
+    background-color: crimson;
+
+}

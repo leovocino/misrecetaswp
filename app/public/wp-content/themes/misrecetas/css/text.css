@@ -1,0 +1,28 @@
+.fnt-xs {
+    font-size: 8px;
+}
+.fnt-s {
+    font: size 14px;
+}
+.fnt-base {
+    font-size: 16px;
+}
+.fnt-md {
+    font-size: 18px;
+}
+.fnt-lg {
+    font-size: 20px;
+}
+.fnt-xl {
+    font-size: 24px;
+}
+
+.fnt-xxl {
+    font-size: 34px;
+}
+.txt-center {
+    text-align: center;
+}
+.line-normal {
+    line-height: 1.4;
+}

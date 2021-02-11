@@ -1,0 +1,26 @@
+.form-contact {
+    width: 400px;
+    background-color: cadetblue;
+    color:blanchedalmond;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 2em;
+
+}
+.form-label {
+    width: 100%;
+    background-color:lightskyblue ;
+    padding: 1em;
+    border: 1px solid blue;
+    color: whitesmoke;
+
+}
+
+.botton {
+    width: 100%;
+    background-color: gray;
+    
+}
+.botton:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,38 @@
+/*.padre {
+    display:flex;
+    background-color:blue;
+    width:500px;
+    height:500px;
+}
+.hijo {
+    flex-direction: row;
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    border:2px solid black;}*/
+
+    .padre {
+        display:flex;
+        background-color:blue;
+        width:500px;
+        height:500px;
+        justify-content: left; /*horizontal*/
+        flex-direction: row;
+        /*align-items: center;  vertical*/
+        /*align-content: varias linesas*/
+        overflow-x: scroll;
+        
+    }
+    .hijo {
+        width: 100px;
+        height: 100px;
+        background-color: tomato;
+        border:2px solid black;  
+        flex-shrink: 0;  
+    
+    }
+
+    /*.hijo1 {
+        margin-left: auto;
+    } */
+    

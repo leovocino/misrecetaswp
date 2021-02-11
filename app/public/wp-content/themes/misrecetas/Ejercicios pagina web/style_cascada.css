@@ -1,0 +1,18 @@
+
+/*.clase1 {
+    background-color: cadetblue;
+    background-color: coral;
+}
+en cascada el ultimo de la clase es el que predomina*/
+
+
+/*especificidad: lo mas importante inline, id, la clase predomina sobre los elementos(div) */
+/*.clase1 {background-color: cyan;}
+div {background-color: darkgreen;}
+#claseid {background-color: darksalmon;}*/
+
+/*herencia todas las propiedades de la fuente se heredan*/
+div {font-size: 30px;
+    background-color: deepskyblue;
+    padding: 10px;
+}

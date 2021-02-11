@@ -1,0 +1,53 @@
+/*div {*/
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;*/
+    /* 16px =100% del tamaño por defecto del navegador
+     1em=100% 1rem=100% pero no hereda*/
+    /* font-weight: bold; bold=negrita 700 normal=400 */
+     /*font-style: italic;cursiva*/
+     /*text-align:center;
+     line-height:2;
+     text-decoration: underline blue;
+     color:rgba(red, green, blue, alpha)*/
+
+/*}*/
+/*
+.tamaño {
+    box-sizing:border-box;
+    background-color: cadetblue;
+    padding: 10px;
+    border:2px solid greenyellow;*/
+   /* width: 100%;  width=100vw para ajusta a la pantalla del dispositivo */
+   /* height:auto ;por defecto heigth= 100vh para ajustar a la ventana o diseño de cualquier dispositivo*/
+    
+
+.margin {
+    border: 2px solid blue ;
+    margin: 10px;
+}
+
+.test-em {
+    font-size: 20px;
+    margin: 220px;
+    background-color: salmon;
+}
+
+.background {
+    /*background-color: red;*/
+    background-image:url("images/futbol.jpg");
+    background-size: 20px;
+
+}
+.border {
+    border-width: 1px;
+    border-color:red;
+    border-style: dashed;
+}
+
+
+
+
+
+
+
+

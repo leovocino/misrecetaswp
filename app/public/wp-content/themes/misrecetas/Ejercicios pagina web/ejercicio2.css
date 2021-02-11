@@ -1,0 +1,93 @@
+/* ejercicio  dia 27/1/21  ejercicio 1.padre {
+    background-color: teal;
+    color:whitesmoke;
+    display:flex;
+    width: 80%;
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo {
+    background-color: rgb(177, 141, 49);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+}*/
+
+
+/* ejercicio 2
+.padre {
+    background-color: teal;
+    color:whitesmoke;
+    display:flex;
+    width: 80%;
+    height:400px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+   
+}
+
+.hijo {
+    background-color: rgb(177, 141, 49);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+}
+*/
+
+    /* EJERCICIO 3
+    .padre {
+        background-color: teal;
+        color:whitesmoke;
+        display:flex;
+        width: 70%;
+        height:500px;
+        flex-wrap: wrap;
+        display: flex;
+        justify-content:center;
+        align-content: space-between;
+       
+    }
+    
+    .hijo {
+        background-color: rgb(177, 141, 49);
+        border: 1px solid black;
+        text-align: center;
+        font-size: 30px;
+        height: 100px;
+        width: 100px;}
+*/
+
+.padre {
+    background-color: teal;
+    color:whitesmoke;
+    display:flex;
+    width: 500px;
+    height:500px;
+    flex-wrap: nowrap;
+    display: flex;
+
+    justify-content:flex-start;
+    overflow-x:scroll;
+    
+}
+
+.hijo {
+    background-color: rgb(177, 141, 49);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+    flex-shrink: 0;
+     /*no ajusta el ancho de la caja*/
+}    
+
+        

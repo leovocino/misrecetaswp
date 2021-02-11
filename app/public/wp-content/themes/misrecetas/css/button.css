@@ -1,0 +1,14 @@
+.btn {
+    padding: .3em .6em;
+    border:none;
+
+}
+.primary {
+    background-color:rgb(39, 40, 83) ;
+    color:whitesmoke
+}
+.btn:hover {
+    cursor:pointer;
+    background-color: goldenrod;
+    color:black;
+}

@@ -1,0 +1,9 @@
+.bg-dark {
+    background-color: darkslategray;
+}
+.bg-ligth {
+    background-color:rgb(114, 114, 114)
+}
+.rounded {
+    border-radius: 12px;
+}

@@ -1,0 +1,12 @@
+/* Mi primera hoja de Estilos comentarios*/
+.blue-box {
+    background-color:goldenrod;
+    padding:10px;
+    font-size:20px;
+}
+/*comentarios*/
+div {background-color: aqua;}
+div > p {background-color: blue;}
+div p  {background-color:maroon}
+
+p{color:blue;} 

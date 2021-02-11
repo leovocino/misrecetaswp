@@ -1,0 +1,48 @@
+div {
+    color:bisque;
+    background-color:cornflowerblue;
+
+}
+
+div:hover {
+    background-color: darkgoldenrod;
+    color:darkgray
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:darkorange;
+    text-decoration:underline;
+}
+
+div.child {
+    background-color: darkred;
+
+}
+
+div.child p:first-child {
+    background-color: darkslateblue;
+}
+
+div.margen {
+    background-color: dodgerblue;
+}
+
+div.margen p {
+    padding-bottom: 40px;
+
+}
+
+div.margen p:last-child {
+    padding-bottom: 0;
+}
+
+div.nth {
+    background-color: gold;
+}
+div.nth p {
+    background-color: hotpink;
+}
