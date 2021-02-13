@@ -1,0 +1,45 @@
+[11-Feb-2021 18:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[11-Feb-2021 18:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[11-Feb-2021 18:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[11-Feb-2021 18:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[11-Feb-2021 18:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[11-Feb-2021 18:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:10
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 10
+[13-Feb-2021 19:52:01 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING), expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[13-Feb-2021 19:52:09 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING), expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[13-Feb-2021 21:07:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 26
