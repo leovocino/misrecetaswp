@@ -299,3 +299,18 @@ Stack trace:
 #3 {main}
   thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
 [16-Feb-2021 23:10:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 66
+[17-Feb-2021 00:52:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 35
+[17-Feb-2021 00:56:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 36
+[17-Feb-2021 00:57:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 36
+[17-Feb-2021 00:58:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 36
+[17-Feb-2021 01:20:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 66
+[17-Feb-2021 01:21:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 70
+[17-Feb-2021 01:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_dater() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php:6
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 6
+[17-Feb-2021 02:12:29 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 18
+[17-Feb-2021 02:38:18 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\page.php on line 8

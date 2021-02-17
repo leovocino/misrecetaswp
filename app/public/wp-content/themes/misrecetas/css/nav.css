@@ -28,3 +28,25 @@
     color:grey;
     pointer-events: none;
 }
+.nav-pagination span.separator {
+    margin-left: .5em;
+    color:grey
+}
+.nav-pagination span.page-numbers {
+    margin-right: .5em;
+    color:rgb(15, 2, 129)
+}
+.nav-pagination .page-numbers {
+    margin-right: .5em;
+    
+}
+.nav-pagination a:hover {
+    text-decoration:underline;
+}
+.nav-pagination a:hover span {
+    display: inline-block;
+    text-decoration:none;  
+}
+.nav-pagination a:nth-last-child(2) span {
+    display:none;
+}
