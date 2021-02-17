@@ -2,8 +2,15 @@
     display:flex;
     color:gray
 }
-.nav-main li {
+/*.nav-main li {
     margin-right: .5em;
+}*/
+.nav-main span{
+    margin:0 .5em;
+    color:grey;
+}
+.nav-main li:last-child span{
+    display:none;
 }
 .nav-main li:last-child {
     margin-right: 0;
@@ -16,4 +23,8 @@
 }
 .nav-main .separator {
     color: gray;
+}
+.nav-main .current-menu-item a{
+    color:grey;
+    pointer-events: none;
 }

@@ -43,3 +43,259 @@ Stack trace:
 [13-Feb-2021 19:52:01 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING), expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
 [13-Feb-2021 19:52:09 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING), expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
 [13-Feb-2021 21:07:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 26
+[16-Feb-2021 09:13:43 UTC] PHP Parse error:  syntax error, unexpected '"after"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 30
+[16-Feb-2021 14:14:35 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING) in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:14:47 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING) in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:15:55 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:16:01 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:16:18 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:18:05 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:19:01 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:19:14 UTC] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting ',' or ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_tumbnail_url() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:8
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 8
+[16-Feb-2021 21:44:12 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 27
+[16-Feb-2021 21:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:47:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:19
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 19
+[16-Feb-2021 21:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:20
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 20
+[16-Feb-2021 21:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function the_posts() on null in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:20
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 20
+[16-Feb-2021 22:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_categoy() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 22:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_categoy() in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luz\\De...')
+#2 C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\index.php(17): require('C:\\Users\\Luz\\De...')
+#3 {main}
+  thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 23:10:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 66
