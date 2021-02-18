@@ -17,7 +17,7 @@
    <div class="container">
 
     <header id="header" class="block-center-row">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo_misrecetas.png" alt="logo"> 
+        <a href="<?php echo get_home_url(); ?>"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo_misrecetas.png" alt="logo"></a> 
     </header>
 
     <?php

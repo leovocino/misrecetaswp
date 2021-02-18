@@ -314,3 +314,4 @@ Stack trace:
   thrown in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 6
 [17-Feb-2021 02:12:29 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 18
 [17-Feb-2021 02:38:18 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ';' in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\page.php on line 8
+[17-Feb-2021 23:55:49 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in C:\Users\Luz\Desktop\curso-creacion-web\misrecetaswp\app\public\wp-content\themes\misrecetas\archive.php on line 27

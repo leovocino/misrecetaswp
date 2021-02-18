@@ -2,8 +2,12 @@
     background-color: darkslategray;
 }
 .bg-ligth {
-    background-color:rgb(114, 114, 114)
+    background-color:rgb(180, 180, 180)
 }
 .rounded {
     border-radius: 12px;
+}
+.border-ligth {
+    
+    border: 2px solid rgb(141, 168, 177) ;
 }

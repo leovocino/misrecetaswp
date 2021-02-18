@@ -8,7 +8,7 @@
 
     <?php
     $args = array(
-        'posts_per_page' => 2,
+        'posts_per_page' => 3,
         'post_status' => 'publish',
         'post_type' => 'post',
         'paged' => $paged
@@ -35,7 +35,7 @@
                         <div class="mb-2 line-normal">
                             <?php the_excerpt(); ?>
                         </div>
-                        <a class="link-normal" href="<?php the_permalink(); ?>">Ver receta</a>
+                        <a class="lnk-nm" href="<?php the_permalink(); ?>">Ver receta</a>
                     </div>
 
                 </div>
